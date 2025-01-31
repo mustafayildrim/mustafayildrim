@@ -53,5 +53,5 @@ I'm a recent **Computer Engineering graduate** with a strong passion for **Machi
 
 ## 📫 Let's Connect!
 
-🔗 [LinkedIn]() | 📁 [GitHub]() | ✉️ [Email](mailto:)
+🔗 [LinkedIn]() | 📁 [GitHub](https://github.com/mustafayildrim) | ✉️ [Email](mailto:)
 
