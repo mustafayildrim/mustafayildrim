@@ -10,9 +10,11 @@ I'm a recent **Computer Engineering graduate** with a strong passion for **Machi
 
 ## 📖 Research Experience
 
-**📌 WiFi Sensing Researcher**
-- Investigated **WiFi sensing for human activity recognition** using Raspberry Pi & CSI data.
-- Explored **Federated Learning** for privacy-sensitive WiFi sensing, improving accuracy by **3.22%** over centralized methods.
+**📌 WiFi Sensing Researcher**  
+- Conducted research on **WiFi sensing for human activity recognition**, focusing on **data collection, analysis, and privacy-preserving techniques**.  
+- Used **Raspberry Pi 4** and **Nexmon CSI** to collect and validate **Channel State Information (CSI)**, leveraging **Wireshark** for analysis.  
+- Developed a **comprehensive survey** covering **datasets, standards, signal processing, and deep learning applications** in WiFi sensing.  
+- Explored **Federated Learning** for privacy-sensitive WiFi sensing using **ResNet-18 on UT-HAR**, achieving a **3.22% accuracy improvement** over centralized methods.
 
 
 ---
